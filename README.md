@@ -1,5 +1,14 @@
-### Hello, Welcome to my profile 👌🏼
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=squeenz&show_icons=true&theme=aura_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<div align="center">
+ 
+ ### Hello, Welcome to my profile 👌🏼
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=squeenz&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=squeenz&layout=compact&langs_count=7&theme=aura_dark&count_private=true"/>
+ 
+  
 ### Languages i use/frameworks
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,unity,unreal,laravel,python,cpp)](https://skillicons.dev)
+ 
+</div>
