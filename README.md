@@ -11,6 +11,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,cpp,cs)](https://skillicons.dev)
  
  ### Tools and Frameworks i use
- [![My Skills](https://skillicons.dev/icons?i=unity,unreal,laravel,net)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=unity,unreal,laravel,net,vue)](https://skillicons.dev)
  
 </div>
